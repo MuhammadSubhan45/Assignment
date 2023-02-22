@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.button-nav{
+    background-color: rgb(251, 109, 77) !important;
+    border-radius: 0;
+    color: white;
+}
+.text-main{
+    font-size: 61px;
+    color: black;
+    font-family: montserrat;
+}
+.fs-5{
+    font-family: montserrat;
+    color: black;
+}
+.shop{
+    color: white;
+}
+.clss{
+    margin: 5px;
+}
+.extraa{
+    font-family: montserrat;
+    color: black;
+}
+.text-color{
+    color: rgb(251, 109, 77) !important;
+    font-size: larger;
+}
+.btnn{
+    background-color: black;
+    border-radius: 0px;
+    font-size: 20px;
+}
+.txxt{
+    color: rgb(185, 184, 184);
+}
